@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BTech in **Computer Science & Engineering**, AKTU — 2nd Year
+- 🎓 BTech in **Computer Science & Engineering**,
 - 💻 Currently strengthening my **Java** and **DSA fundamentals** from the ground up
 - 🧠 Working through arrays, recursion, and core problem-solving patterns, building toward advanced DSA
 - ♟️ Big into **chess** — always up for a game
@@ -65,15 +65,6 @@
 
 ---
 
-### ♟️ Beyond Code
-
-| | |
-|---|---|
-| ♟️ **Chess.com / Lichess** | _add your profile link here_ |
-| 🎵 **Currently vibing to** | Bollywood • Punjabi • Hindi Rap • English |
-| 🏋️ **Current focus** | Consistency in the gym + DSA streak |
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -82,7 +73,7 @@
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
   <!-- Replace # with your real links -->
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" /></a>
 </p>
