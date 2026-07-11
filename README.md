@@ -34,11 +34,7 @@
 
 ---
 
-## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurav8643&layout=compact&theme=tokyonight)
-
----
 
 ## 🌟 Quote
 
